@@ -1,6 +1,6 @@
 {
   "name": "nomore-test-b",
-  "version": "0.1",
+  "version": "0.0.1",
   "dependencies": {
     "ie-shim": "0.1.0",
     "jsondiffpatch": "0.2.4",
