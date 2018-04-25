@@ -1,0 +1,30 @@
+{
+  "name": "nomore-test-b",
+  "version": "0.1",
+  "dependencies": {
+    "ie-shim": "0.1.0",
+    "jsondiffpatch": "0.2.4",
+    "lodash": "4.17.4",
+    "moment": "2.18.1",
+    "moment-range": "3.0.3",
+    "moment-recur": "git+https://git@github.com/no-more/moment-recur.git#master",
+    "moment-timezone": "0.5.13",
+    "rxjs": "5.4.3",
+    "nomore-test-a": "git+https://git@github.com/no-more/nomore-test-a.git#master",
+    "tinycolor2": "1.4.1"
+  },
+  "devDependencies": {},
+  "resolutions": {
+    "ie-shim": "0.1.0",
+    "jsondiffpatch": "0.2.4",
+    "lodash": "4.17.4",
+    "moment": "2.18.1",
+    "moment-range": "3.0.3",
+    "moment-recur": "git+https://git@github.com/no-more/moment-recur.git#master",
+    "moment-timezone": "0.5.13",
+    "rxjs": "5.4.3",
+    "nomore-test-a": "git+https://git@github.com/no-more/nomore-test-a.git#master",
+    "tinycolor2": "1.4.1"
+  },
+  "dependenciesSource": {}
+}
